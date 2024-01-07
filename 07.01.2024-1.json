@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Olson",
+    "age": 64,
+    "address": {
+        "street": "John Mountains",
+        "city": "Christopherbury",
+        "state": "Montana",
+        "zip": "41647"
+    },
+    "contact": {
+        "phone": "335.665.8923x92472",
+        "servicePhone": "800430307"
+    },
+    "birthday": "1961-12-05",
+    "ip": "95.233.170.72",
+    "foo": "bar",
+    "profile": {
+        "about": "These mother me though Mrs. Face generation career truth.",
+        "bio": "Operation simply social nothing always. Develop two treat new everything support. Crime time upon they actually."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
