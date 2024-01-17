@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Pace",
+    "age": 31,
+    "address": {
+        "street": "Douglas Viaduct",
+        "city": "East Paulamouth",
+        "state": "New Mexico",
+        "zip": "69190"
+    },
+    "contact": {
+        "phone": "290-705-0425",
+        "servicePhone": "800177970"
+    },
+    "birthday": "1994-09-12",
+    "ip": "193.33.180.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Whose cup firm spring. Draw more window seven.\nOffer kind notice food upon here. Race dream present together unit cell rich. Here whom really religious with.",
+        "bio": "In collection may institution eat decide read. Laugh direction western law again later. Central practice center few job new past."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
