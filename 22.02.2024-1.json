@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Smith",
+    "age": 8,
+    "address": {
+        "street": "April Burg",
+        "city": "Alanville",
+        "state": "New York",
+        "zip": "22445"
+    },
+    "contact": {
+        "phone": "001-221-395-3567x8297",
+        "servicePhone": "800031256"
+    },
+    "birthday": "2017-28-10",
+    "ip": "52.139.254.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Could same establish. Even provide face contain find.\nCompany risk surface mention item. Affect manager activity red. Activity audience record development where pattern.",
+        "bio": "A discussion per foot. Town minute money many structure. Glass show visit owner."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
