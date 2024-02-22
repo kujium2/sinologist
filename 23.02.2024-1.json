@@ -1,0 +1,25 @@
+{
+    "name": "Michael Mitchell",
+    "age": 22,
+    "address": {
+        "street": "Zamora Rest",
+        "city": "North Courtneymouth",
+        "state": "Missouri",
+        "zip": "01980"
+    },
+    "contact": {
+        "phone": "481-556-6986x341",
+        "servicePhone": "800146900"
+    },
+    "birthday": "2003-19-02",
+    "ip": "23.92.35.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Task step store major nature north. Soon nation center company fight far week power.\nLikely individual oil tonight task this course heavy. Sea allow yeah unit of agreement mind.",
+        "bio": "Eight traditional least raise get customer. Per sign item pressure product film lose."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
