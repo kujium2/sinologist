@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Dominguez",
+    "age": 115,
+    "address": {
+        "street": "Willis Way",
+        "city": "New Michael",
+        "state": "New Jersey",
+        "zip": "82450"
+    },
+    "contact": {
+        "phone": "(601)507-0371",
+        "servicePhone": "800679871"
+    },
+    "birthday": "1910-18-11",
+    "ip": "218.115.60.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Very live heavy care official team every. Stop whether million newspaper exist. Subject far once example information nothing. Page hit with hot lot.",
+        "bio": "Part single why else sound least travel. General of second politics card identify there. Paper spring group feeling effort more beat."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
