@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Madden",
+    "age": 35,
+    "address": {
+        "street": "Proctor Curve",
+        "city": "Wilsonville",
+        "state": "Nevada",
+        "zip": "89019"
+    },
+    "contact": {
+        "phone": "7524324585",
+        "servicePhone": "800541793"
+    },
+    "birthday": "1990-16-06",
+    "ip": "63.208.59.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Special country surface impact data. Mrs lead last son place federal media. Life subject grow along far understand available.\nState good price. Move list black ground pressure.",
+        "bio": "Behind drug play article task about. Heart house specific Mrs. Anything gun look decision because quality subject image."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
