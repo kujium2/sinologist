@@ -1,0 +1,25 @@
+{
+    "name": "Logan Floyd",
+    "age": 93,
+    "address": {
+        "street": "Erin Hill",
+        "city": "Crystalchester",
+        "state": "Illinois",
+        "zip": "68115"
+    },
+    "contact": {
+        "phone": "241.864.4194",
+        "servicePhone": "800215294"
+    },
+    "birthday": "1932-21-08",
+    "ip": "219.63.107.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Nice blood home court stay industry. Remember trouble bring modern clearly care defense.",
+        "bio": "Off theory tend.\nWriter throughout kind really majority form.\nWatch provide probably make say girl. Usually toward owner thousand piece."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
