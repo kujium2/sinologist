@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Strong",
+    "age": 4,
+    "address": {
+        "street": "Wilson Bridge",
+        "city": "East Daletown",
+        "state": "Arkansas",
+        "zip": "75004"
+    },
+    "contact": {
+        "phone": "823.460.2728",
+        "servicePhone": "800875149"
+    },
+    "birthday": "2021-31-10",
+    "ip": "15.150.137.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Animal however successful support one nothing whatever. Grow gas line total capital never.\nPrice among may experience kitchen. Never along only land. Actually major then in current follow.",
+        "bio": "Down book world property consider defense. Term simple home almost.\nAge policy network admit item lawyer meeting middle. Cause stuff support sit reveal and land none."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
