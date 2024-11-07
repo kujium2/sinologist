@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Reese",
+    "age": 65,
+    "address": {
+        "street": "Davis Street",
+        "city": "Jacquelineshire",
+        "state": "Oregon",
+        "zip": "84580"
+    },
+    "contact": {
+        "phone": "+1-857-429-1748x6304",
+        "servicePhone": "800843159"
+    },
+    "birthday": "1960-19-06",
+    "ip": "186.236.240.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Discover Mrs water sure degree then.\nOffice economy little want space action. Technology them well wide Republican public. Energy newspaper note tax action task.",
+        "bio": "Act maintain international health. Learn reflect cold.\nNight carry cause he."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
