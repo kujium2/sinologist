@@ -1,0 +1,25 @@
+{
+    "name": "Sierra Valdez",
+    "age": 105,
+    "address": {
+        "street": "Dennis Forks",
+        "city": "Lake Kevinchester",
+        "state": "Delaware",
+        "zip": "35603"
+    },
+    "contact": {
+        "phone": "(563)363-9536x1645",
+        "servicePhone": "800801412"
+    },
+    "birthday": "1920-29-07",
+    "ip": "214.66.57.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Office career cost trouble body Congress. Sister choose continue citizen matter.\nForeign decision interesting record response tend marriage.",
+        "bio": "Its recent measure effect. Sit hand mean than risk. Kind often require. Growth bill activity area director beautiful strategy successful."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
