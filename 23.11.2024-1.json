@@ -1,0 +1,25 @@
+{
+    "name": "James Johnson",
+    "age": 79,
+    "address": {
+        "street": "Cox Coves",
+        "city": "Lake Patriciabury",
+        "state": "Iowa",
+        "zip": "82386"
+    },
+    "contact": {
+        "phone": "430-912-0885",
+        "servicePhone": "800733391"
+    },
+    "birthday": "1946-24-12",
+    "ip": "186.56.243.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Entire ever series adult hold. Take road should general feel PM.\nLet special individual before business seat sort. Floor city science agent. Man accept brother who.",
+        "bio": "Some join child.\nBuild reduce president. Ground water skill skill result not. Government name pick main."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
