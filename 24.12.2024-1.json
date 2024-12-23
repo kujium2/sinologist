@@ -1,0 +1,25 @@
+{
+    "name": "Henry Williams",
+    "age": 29,
+    "address": {
+        "street": "Elizabeth Trafficway",
+        "city": "Lake Leonard",
+        "state": "Nebraska",
+        "zip": "17457"
+    },
+    "contact": {
+        "phone": "001-424-862-7810",
+        "servicePhone": "800161110"
+    },
+    "birthday": "1996-14-03",
+    "ip": "140.86.79.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Matter development value price. White fine draw tax also wide. Letter manager city let world election.",
+        "bio": "Production history within about reach your. Simple a sing pull player federal scene.\nDiscussion two attack environmental amount individual family. Education partner commercial week."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
